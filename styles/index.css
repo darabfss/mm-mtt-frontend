@@ -125,3 +125,9 @@ button:hover::before {
 .nav-link{
     padding-right: 50px !important;
 }
+
+div.dataTables_wrapper div.dataTables_length select {
+    width: auto;
+    display: inline-block;
+    padding: 5px 15px !important;
+}
